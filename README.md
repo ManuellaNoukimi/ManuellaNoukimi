@@ -1,16 +1,27 @@
-## Hi there 👋
+# Salut, je suis Manuella Précieuse👋
 
-<!--
-**ManuellaNoukimi/ManuellaNoukimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en génie logiciel à l'Université Laval, passionnée par l'infographie, la communication, la musique et l'informatique.
 
-Here are some ideas to get you started:
+## 🚀 À propos
+- 🎓 Baccalauréat en génie logiciel, Université Laval (depuis 2025)
+- 💻 Je me découvre dans le développement front-end avec un intérêt marqué pour la coordination de projets et le travail d'équipe
+- 🎨 Bénévole en conception graphique pour une communauté étudiante de près de 200 membres
+- 🏆 3e prix — Journée Francophone pour les Femmes en Informatique (JFFI), ÉTS Montréal 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences techniques
+**Front-end** : HTML5, CSS3, JavaScript, Figma  
+**Back-end** : Python, Flask, MySQL  
+**Design** : Canva, Affinity Designer 2, Adobe Illustrator  
+**Outils** : Git, VS Code, PyCharm
+
+## 📌 Projet en vedette
+
+### [StudySync UL]
+Application web de gestion de séances de révision universitaire, développée en équipe.
+- Authentification des utilisateurs
+- Affichage dynamique des séances en temps réel (manipulation du DOM en JavaScript)
+- Système d'évaluation anonyme entre pairs
+- **Technos** : HTML5, CSS3, JavaScript, Flask, MySQL
+
+## 📫 Me contacter
+[LinkedIn](https://www.linkedin.com/in/manuella-précieuse-noukimi-sebeufo-6007b630a)
