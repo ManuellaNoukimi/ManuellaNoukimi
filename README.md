@@ -14,14 +14,16 @@
 **Design** : Canva, Affinity Designer 2, Adobe Illustrator  
 **Outils** : Git, VS Code, PyCharm
 
-##  Projet en vedette
+##  Projets en vedette
 
-### [StudySync UL]
+### [StudySync UL](https://github.com/ManuellaNoukimi/Reserve_ta_seance)
 Application web de gestion de séances de révision universitaire, développée en équipe.
 - Authentification des utilisateurs
 - Affichage dynamique des séances en temps réel (manipulation du DOM en JavaScript)
 - Système d'évaluation anonyme entre pairs
 - **Technos** : HTML5, CSS3, JavaScript, Flask, MySQL
+
+### [Complice](https://github.com/ManuellaNoukimi/Propulser-Saint-Roch/tree/chore/recruiter-ready-repository)
 
 ## Me contacter
 [LinkedIn](https://www.linkedin.com/in/manuella-précieuse-noukimi-sebeufo-6007b630a)
