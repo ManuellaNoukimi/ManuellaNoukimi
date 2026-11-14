@@ -24,6 +24,16 @@ Application web de gestion de séances de révision universitaire, développée 
 - **Technos** : HTML5, CSS3, JavaScript, Flask, MySQL
 
 ### [Complice](https://github.com/ManuellaNoukimi/Propulser-Saint-Roch/tree/chore/recruiter-ready-repository)
+Application web visant à mettre en contact les résidents, les entreprises et les commerces du quartier Saint-Roch, voici quelques fonctionnalités développées dans le cadre de ce projet.
+- Vie du quartier : fil d'initiatives, recherche, filtres, détail et participation comme complice.
+- Vitrine: besoins sur une zone personnalisée de Saint-Roch, soutiens, locaux vacants fictifs, votes et demandes d'occupation. Les localisations non confirmées restent signalées.
+- Profil résident : points, niveaux, badges et historique privé. L'aide confirmée et la participation alimentent la progression. Le check-in et le Midi incluent des simulations identifiées.
+- Entreprises : publications, invitations, contacts et tableau de bord. L'annuaire accepte les comptes locaux et des fichiers externes facultatifs.
+- Mobilité : carte, recherche de lieux et propositions auto, marche, vélo et bus. Les services publics et le réseau conditionnent une partie des résultats. Les horaires RTC viennent d'un instantané, pas d'un suivi GPS. Les stationnements affichés ne garantissent pas une place libre.
+
+## Technologies
+Next.js 16.4.1 avec App Router et Turbopack, React 19.3.0, TypeScript, Tailwind CSS 4 et CSS, Zod, SQLite via better-sqlite3, Leaflet et MapLibre GL. ExcelJS lit les fichiers facultatifs côté serveur. npm et `package-lock.json` verrouillent les dépendances.
+
 
 ## Me contacter
 [LinkedIn](https://www.linkedin.com/in/manuella-précieuse-noukimi-sebeufo-6007b630a)
